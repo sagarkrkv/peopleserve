@@ -1,0 +1,41 @@
+.jumbotron{
+    background:  	#FFB90F;
+    
+    height:80px;
+}
+.jumbotron .container{position:relative;}
+.jumbotron h1 {
+color:Navy-Blue;
+font-size:47px;
+font-weight:bold;
+font-family:'Shift', sans-serif;
+text-align:center;
+} 
+.nav a {
+  color: #fff;
+  font-size: 14px;
+  font-weight:bold;
+  padding-top:14px;
+  padding-right:10px;
+  padding-left:10px;
+  padding-bottom:14px;
+  text-transform: uppercase;
+}
+.nav{background:black;}
+.nav li{display:inline;}
+
+.learn-more h3 {font-family:'Shift', sans-serif;
+font-size:30px;
+
+font-weight:bold;
+}
+.learn-more p {
+color:black;
+font-size:25px;
+}
+.learn-more li{font-size:20px;
+}
+
+body {    background: url("kindajean.png");
+    
+	}

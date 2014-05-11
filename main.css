@@ -1,0 +1,65 @@
+body {    background: url("kindajean.png");
+    
+	}
+  .nav a {
+  color: #fff;
+  font-size: 14px;
+  font-weight:bold;
+  padding-top:14px;
+  padding-right:10px;
+  padding-left:10px;
+  padding-bottom:14px;
+  text-transform: uppercase;
+}
+.nav{background:black;}
+.nav li{display:inline;}
+
+.jumbotron{
+    height:500px;
+    background-image:url('helping.jpg');
+    background-repeat: no-repeat;
+	background-position: center center;
+	
+    
+}
+.jumbotron h1 {
+color:ORANGE;
+font-size:48px;
+font-weight:bold;
+font-family:'Shift', sans-serif;
+s
+}
+.jumbotron p {
+color:black;
+font-size:20px;
+
+
+}
+
+.learn-more h3 {font-family:'Shift', sans-serif;
+font-size:18px;
+
+font-weight:bold;
+}
+.learn-more {
+  background-image:url('stardust_@2X.png');
+  margin-right:-15px;
+}
+.learn-more a {color:orange;}
+.learn-more p {color:#fff;}
+.learn-more h3 {color:#fff;}
+.jumbotron a{position:relative;top: -80px;margin-right:50px}
+
+.jumbotron .container{position:relative;top:100px;margin-left:50px;}
+.neighborhood-guides{
+border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2{color:#00688B;
+font-size:41px;
+text-align:center;}
+.neighborhood-guides p{margin-bottom:13px;
+font-size:24px;}
+.learn-more li{display:inline;}
+.neighborhood-guides h5{text-align:center;
+font-weight:bold;
+font-size:24px;}
